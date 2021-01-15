@@ -1,0 +1,48 @@
+El uso del framework Tensorflow lleva ventajas facilitando los cálculos de la maquina y el aprendizaje profundo, como tal no se mencionarán todas las ventajas ni desventajas, pero si las más características e importantes en el uso de Tensorflow.
+
+Ventajas:
+
+-Plataforma de código abierto: Tensorflow es una plataforma de código abierto que pone a disposición de todos los usuarios
+
+-Visualización de datos: Tensorflow proporciona una interfaz de visualización de datos con su enfoque grafico como puede ser TensorBoard
+
+ayudando a comprender, depurar y optimizar las redes neuronales más fácilmente.
+
+-Amigable con Keras: Compatibilidad entre los dos frameworks lo que permite a los usuarios codificar algunas secciones de funcionalidad
+de alto nivel.
+
+-Compatible con varios lenguajes de programación: Es compatible con muchos lenguajes de programación como C++, Python, C#, Ruby y Swift.
+lo que permite al usuario trabajar cómodamente en el entorno que se sienta familiar.
+
+-Paralelismo: TensorFlow encuentra su uso como una biblioteca de aceleración de hardware debido al paralelismo de los modelos de trabajo
+utilizando diferentes estrategias de distribución en sistemas como GPU y CPU.
+
+-Soporte arquitectónico: TensorFlow también tiene su arquitectura TPU, que realiza cálculos más rápido que la GPU y la CPU. Los modelos 
+creados con TPU se pueden implementar fácilmente en una nube a un ritmo más económico y ejecutar a un ritmo más rápido.
+
+-Soporte gráfico: El aprendizaje profundo usa TensorFlow para su desarrollo, ya que permite construir redes neuronales con la ayuda de 
+gráficos que representan operaciones como nodos. TensorFlow actúa en múltiples dominios, como reconocimiento de imágenes, detección de 
+voz, detección de movimiento, series de tiempo, etc. por lo que se adapta a los requisitos de un usuario.
+
+-Comunidad: Al ser uno de los frameworks más trabajados en el mundo la comunidad puede orientarte en tus problemas o en el código que se trabaja.
+
+-Gestion de bibliotecas: Google lo respalda teniendo ventajas de un buen rendimiento, actualizaciones frecuentes con lanzamientos con nuevas funciones siendo muy
+bien codificado y documentado.
+
+-Fácil uso compartido de modelos listos para producción: Muchos marcos requieren que proporciones un código completo de un modelo para 
+cargar sus pesos en. TensorFlow, por otro lado, solo requiere un archivo de punto de control y el conocimiento de los nombres de las capas que necesita para la inferencia
+
+Desventajas:
+- Actualizaciones frecuentes: Algunos usuarios no les gusta las actualizaciones que lanzan cada 2-3 meses lo que aumenta la sobrecarga de trabajo para que un usuario lo instale además de que en estas actualizaciones suelen llevar errores.
+
+- Homonimos en funciones: Para algunas funciones de Tensorflow comparten casi el mismo nombre lo que a los usuarios se les hace complicado recordar y confundirse.
+
+-  Limitación arquitectónica: La arquitectura TPU de TensorFlow solo permite la ejecución de un modelo, no para entrenarlo.
+
+- Bucles simbólicos: Tensorflow tiene un API de bajo nivel, es decir, se retrasa en proporcionar los bucles simbólicos para secuencias indefinidas.
+
+- Soporte GPU: Tensorflow solo tiene compatibilidad con NVIDIA para GPU y Python para la programación de GPU teniendo otro soporte nulo y que hay un aumento de otros lenguajes en el aprendizaje profundo, así como Lau
+
+- Velocidad lenta: Tensorflow tiene baja velocidad de ejecución con respecto a sus competidores.
+
+- Soporte para Windows: No proporciona muchas funciones para los usuarios de Windows, pero si para los usuarios de Linux teniendo más amplia gama de funciones para Linux por lo que se opta usar anaconda para operar Tensorflow en Windows.
