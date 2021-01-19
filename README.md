@@ -18,7 +18,7 @@ Se divide en 5 partes las cuales se sugiere se consulten en elorden especificado
 
 [3] Para conocer las ventajas y desventajas: https://neurosys.com/article/pros-and-cons-of-using-tensorflow-in-the-production-environment/ , https://techvidvan.com/tutorials/pros-and-cons-of-tensorflow/
 
-[4] Para conocer las particularidades y comunes utilidades:
+[4] Para conocer las particularidades y comunes utilidades: https://www.analyticsvidhya.com/blog/2019/03/deep-learning-frameworks-comparison/ , https://marutitech.com/top-8-deep-learning-frameworks/ , https://developer.nvidia.com/deep-learning-frameworks , https://www.simplilearn.com/tutorials/deep-learning-tutorial/deep-learning-frameworks
 
 [5] Para la red neuronal con CIFAR 10: https://www.tensorflow.org/tutorials/images/cnn
 
