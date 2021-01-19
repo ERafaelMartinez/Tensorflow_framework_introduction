@@ -13,8 +13,12 @@ Se divide en 5 partes las cuales se sugiere se consulten en elorden especificado
 ### Referencias:
 
 [1] Para la instalación de las paqueterías: https://www.tensorflow.org/install?hl=es-419, https://www.anaconda.com/products/individual
-[2] Para la documentación oficial: 
-https://www.tensorflow.org/?hl=es-419
 
-https://www.tensorflow.org/?hl=es-419
+[2] Para la documentación oficial: https://www.tensorflow.org/?hl=es-419
+
+[3] Para conocer las ventajas y desventajas: 
+
+[4] Para conocer las particularidades y comunes utilidades:
+
+[5] Para la red neuronal con CIFAR 10: https://www.tensorflow.org/tutorials/images/cnn
 
