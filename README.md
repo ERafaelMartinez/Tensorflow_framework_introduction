@@ -12,11 +12,11 @@ Se divide en 5 partes las cuales se sugiere se consulten en elorden especificado
 
 ### Referencias:
 
-[1] Para la instalación de las paqueterías: https://www.tensorflow.org/install?hl=es-419, https://www.anaconda.com/products/individual
+[1] Para la instalación de las paqueterías: https://www.tensorflow.org/install?hl=es-419 , https://www.anaconda.com/products/individual
 
 [2] Para la documentación oficial: https://www.tensorflow.org/?hl=es-419
 
-[3] Para conocer las ventajas y desventajas: 
+[3] Para conocer las ventajas y desventajas: https://neurosys.com/article/pros-and-cons-of-using-tensorflow-in-the-production-environment/ , https://techvidvan.com/tutorials/pros-and-cons-of-tensorflow/
 
 [4] Para conocer las particularidades y comunes utilidades:
 
